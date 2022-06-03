@@ -2,10 +2,10 @@
 cp /usr/share/zoneinfo/Asia/Dubai /etc/localtime
 
 #Database Details
-db_host='173.82.65.242';
-db_user='mktunnel_mktunnel';
-db_pass='dig21a1i#0550013763';
-db_name='mktunnel_mktunnel';
+db_host='66.45.248.110';
+db_user='digitelp_mktunnel';
+db_pass='ME2HE2Di@';
+db_name='digitelp_mktunnel';
 
 install_require()
 {
